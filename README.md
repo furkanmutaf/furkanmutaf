@@ -1,5 +1,3 @@
-# Hi, I'm Furkan 👋
-
 I'm a high school graduate focusing on backend development with Python.
 
 - Backend development

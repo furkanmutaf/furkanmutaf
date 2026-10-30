@@ -10,9 +10,3 @@ I'm a high school graduate focusing on backend development with Python.
 - Git & GitHub
 - API design
 - Authentication & authorization
-
-
- Goals
-- Build real backend projects
-- Contribute to open-source
-- Become a professional backend developer

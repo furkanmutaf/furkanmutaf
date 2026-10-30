@@ -3,8 +3,6 @@
 Passionate backend developer focusing on building scalable web applications with Python and Flask. Always learning and contributing to open-source.
 
 - Backend development
-- Python
-- linux
 - REST APIs
 - Databases (SQL)
 - Git & GitHub
@@ -16,3 +14,4 @@ Passionate backend developer focusing on building scalable web applications with
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademfurk...@gmail.com)

@@ -5,8 +5,6 @@ Passionate backend developer focusing on building scalable web applications with
 - linux
 - REST APIs
 - Databases (SQL)
-- Flask (learning)
-- PostgreSQL (basic)
 - Git & GitHub
 - API design
 - Authentication & authorization

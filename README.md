@@ -8,3 +8,5 @@ Passionate backend developer focusing on building scalable web applications with
 - Git & GitHub
 - API design
 - Authentication & authorization
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

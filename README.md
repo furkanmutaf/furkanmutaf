@@ -1,4 +1,4 @@
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmutaf&show_icons=true&theme=radical)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmutaf&show_icons=true&theme=tokyonight&hide_title=true)
 
 Passionate backend developer focusing on building scalable web applications with Python and Flask. Always learning and contributing to open-source.
 
